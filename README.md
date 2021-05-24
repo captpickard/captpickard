@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captpickard
 - 👀 I’m interested in simple automation for lab systems
-- 🌱 I’m currently learning to be an laboratory automater
+- 🌱 I’m currently working towards becoming a laboratory automater
 - 💞️ I’m looking to collaborate on python projects that simplify routines
 - 📫 You can reach out to me on github
 
